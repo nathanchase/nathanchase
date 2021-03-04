@@ -1,7 +1,7 @@
-It's me, Nathan!
+Hello!
 
 # Usage
-Via npx:
+Find out more about me via:
 ```
 npx nathanchase
 ```
